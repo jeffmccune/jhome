@@ -1,0 +1,20 @@
+Host albright
+	Hostname 63.146.173.161
+	ForwardAgent yes
+	Ciphers blowfish-cbc
+
+Host ecp1
+	Hostname 63.146.173.136
+	ForwardAgent yes
+
+Host ecp2
+	Hostname 63.146.173.137
+	ForwardAgent yes
+
+Host ecp3
+	Hostname 63.146.173.138
+	ForwardAgent yes
+
+Host *.asp.ntst.private
+	Ciphers blowfish-cbc
+	ForwardAgent yes
