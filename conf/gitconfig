@@ -1,0 +1,7 @@
+[user]
+        name = Jeffrey J McCune
+        email = jmccune@ntst.com
+[color]
+        branch = auto
+        status = auto
+        diff = auto
